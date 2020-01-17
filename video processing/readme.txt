@@ -1,0 +1,2 @@
+An example of video processing using Python and the keras package.\
+The video and the file mapping.csv have been taken from {\field{\*\fldinst{HYPERLINK "https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/" while the Neural Network algorithm developed in this code is developed by me.
