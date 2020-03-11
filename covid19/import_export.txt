@@ -1,0 +1,11 @@
+#import
+
+data = pd.read_csv('https://github.com/pcm-dpc/COVID-19/raw/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv')
+xdata=pd.to_numeric(range(data.shape[0]))
+ydata=data['totale_casi']
+ydata_death=data['deceduti']
+ydata_rec=data['dimessi_guariti']
+
+#export
+export = pd.DataFrame({'t':t, 's':s_vec, 'i': i_vec, 'r': r_vec, 'm':m_vec})
+export.to_excel('export.xlsx')
