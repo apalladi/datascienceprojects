@@ -1,0 +1,22 @@
+Nome regione,R0-4giorni,Var. sett. %,Occ. terapia int. %,R0_semaforo,Var. sett. semaforo,Occ. terapia int. semaforo
+Abruzzo,0.83,5.82,3.31,Verde,Verde,Verde
+Basilicata,0.32,0.89,1.56,Verde,Verde,Verde
+P.A. Bolzano,0.69,1.69,8.06,Verde,Verde,Verde
+Calabria,0.67,0.67,0.45,Verde,Verde,Verde
+Campania,0.65,1.45,1.5,Verde,Verde,Verde
+Emilia-Romagna,0.81,8.1,9.56,Verde,Verde,Verde
+Friuli Venezia Giulia,0.89,4.44,1.29,Verde,Verde,Verde
+Lazio,0.93,4.54,9.62,Verde,Verde,Verde
+Liguria,0.81,22.51,8.76,Verde,Arancione,Verde
+Lombardia,0.97,22.57,17.94,Verde,Arancione,Arancione
+Marche,0.61,5.64,9.82,Verde,Verde,Verde
+Molise,0.81,6.54,7.41,Verde,Verde,Verde
+Piemonte,0.81,17.93,19.76,Verde,Verde,Arancione
+Puglia,0.87,1.39,6.54,Verde,Verde,Verde
+Sardegna,0.67,0.67,7.36,Verde,Verde,Verde
+Sicilia,0.97,1.02,1.8,Verde,Verde,Verde
+Toscana,0.48,3.78,6.31,Verde,Verde,Verde
+P.A. Trento,0.0,11.64,9.68,Verde,Verde,Verde
+Umbria,0.59,1.02,2.08,Verde,Verde,Verde
+Valle d'Aosta,0.36,7.96,4.0,Verde,Verde,Verde
+Veneto,0.67,3.93,1.82,Verde,Verde,Verde
